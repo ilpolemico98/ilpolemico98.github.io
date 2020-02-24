@@ -9,10 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Il Polemico # add your name
 author-img: 
 about-author: 
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: ilpolemico98@libero.it # add your Email address
 
 # Disqus
 discus-identifier: ilpolemico98 # add your discus identifier
