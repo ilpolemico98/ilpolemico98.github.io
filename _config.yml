@@ -1,5 +1,5 @@
 title: Il PoleMIco
-description: " Chi sa di poter dissentire sa anche che,quando non dissente, esprime un tacito assenso." H.Arendt
+description: " Chi sa di poter dissentire sa anche che,quando
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ilpolemico98.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -8,7 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Il PoleMIco # add your name
 author-img: profile.png
-about-author: " Chi sa di poter dissentire sa anche che,quando non dissente, esprime un tacito assenso." H.Arendt
+about-author: " Chi sa di poter dissenti
 social-email: ilpolemico98@libero.it # add your Email address
 
 # Disqus
