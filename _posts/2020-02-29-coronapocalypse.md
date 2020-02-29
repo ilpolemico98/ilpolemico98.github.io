@@ -1,7 +1,7 @@
 ---
 template: post
 title: CORONAPOCALYPSE
-date: 2020-02-29 23:40:00 +0100
+date: 2020-02-29 23:55:00 +0100
 ---
 Grazie all’ormai celebre Covid-19, per gli amici Coronavirus, l’intero Occidente si è svegliato turbato sugli allori in cui vive assopito, viziato e coccolato da una bolla di edonismo consumista, s’è reso conto di essere  minacciato da una potenziale pandemia, una di quelle cose per cui si muore ancora solo nei paesi del terzo mondo, un mondo terzo da noi che presuntuosamente ci siamo “evoluti”. Una sveglia morale che rompe la quite aurorea dell’indifferenza impartendo una gran lezione di umiltà, sveglia che abbiamo ignorato preferendo il sonno della ragione, con tutti gli incubi che ne derivano. Le patetiche buffonate a cui stiamo assistendo in questi giorni ne sono la prova, tanto ridicole da essere degne del miglior carnevale di tutti i tempi. Peccato però che il carnevale sia stato annulato e le maschere siano cadute mostrando facce intimorite dal rischio epidemia, che mina la tranquilla quotidianità ricordando quanto siamo vulnerabili.                                                         
 Un Occidente che pretende di essere maturo,ma che trema di fronte alla possibilità della morte e fugge in preda agli istinti più animaleschi e miseri. 
