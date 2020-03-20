@@ -1,7 +1,7 @@
 ---
 template: post
 title: #Bolsonaro litiga con la giustizia climatica
- date: 2020-03-20 18-30-00 +0100
+date: 2020-03-20 18-30-00 +0100
 ---
 Solo a Novembre, con l’arrivo della stagione delle piogge, sono stati spenti i devastanti incendi che hanno martoriato la foresta Amazzonica (circa 46.000 solo quest’estate), il polmone verde del pianeta (assorbe più di mezzo miliardo di tonnellate di carbonio l’anno) nonché casa per circa 2,5 milioni di specie di insetti, decine di migliaia di piante (10.000 specie di alberi rari), circa 2.000 specie di uccelli e mammiferi. La foresta attraversata dal Rio delle Amazzoni, nel cui letto scorre un quinto dell’acqua dolce del pianeta, è l’habitat più ricco di biodiversità al mondo. Fare un bilancio dei danni è opportuno, sono stati distrutti 9.762 km quadrati, una superficie minima rispetto alle dimensioni della foresta ma pur sempre equivalente all’estensione dell’isola di Cipro. (dati del Programma di Monitoraggio Satellitare della Foresta Amazzonica PRODES, Istituto Brasiliano di Ricerche Spaziali INPE).
 
